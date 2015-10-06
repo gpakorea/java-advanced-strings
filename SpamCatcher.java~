@@ -1,0 +1,16 @@
+/*
+ * Project: SpamCatcher.java
+ * Description: A program to catch spammy email.
+ * Name: Aaron Snowberger
+ * Date: Oct 6, 2015
+ */
+
+public class SpamCatcher {
+  
+  public static void main( String[] args ) {
+    
+    
+    
+  } // end main method
+  
+} // end class
