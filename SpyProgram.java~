@@ -1,0 +1,18 @@
+/*
+ * Project: SpyProgram.java
+ * Description: A program to encrypt and decrypt password or message Strings.
+ * Name: Aaron Snowberger
+ * Date: Oct 7, 2015
+ */
+
+import java.util.Scanner;
+
+public class SpyProgram {
+  
+  public static void main( String[] args) {
+    
+    
+    
+  } // end main method
+  
+} // end SpyProgram

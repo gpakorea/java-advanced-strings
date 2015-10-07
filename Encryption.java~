@@ -1,0 +1,19 @@
+/*
+ * Project: Encryption.java
+ * Description: A program to encrypt and decrypt password or message Strings.
+ * Name: Aaron Snowberger
+ * Date: Oct 7, 2015
+ */
+
+public class Encryption {
+  
+  // constructor method
+  
+  
+  // encrypt() method accepts a String and returns babble
+  
+  
+  // decrypt() method accepts babble and returns a good String
+  
+  
+} // end class
